@@ -1,0 +1,59 @@
+.divisao{
+
+  padding-left: 50px;
+}
+.barrasuperior {
+    background-color: rgb(27, 27, 27);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 47px;
+    box-shadow: 0px 0px 10px black;
+  }
+  .colorDev{
+    color: whitesmoke;
+     text-decoration: none;
+    font-family: sans-serif;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .colorDev2{
+    color: whitesmoke;
+     text-decoration: none;
+    font-family: sans-serif;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+  display: inline;
+  float: left;
+}
+
+.titulo{
+  font-family: sans-serif;
+  text-align: justify;
+  font-size: 35px;
+}
+
+.subtitulo{
+  font-family: sans-serif;
+  text-align: justify;
+  font-size: 25px;
+}
+
+.corpotexto{
+  font-family: sans-serif;
+  text-align: justify;
+}
