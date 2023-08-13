@@ -1,4 +1,12 @@
+.nomeparagrafo{
+  text-decoration: none;
+}
 .divisao{
+  height: 50px;
+  padding-left: 50px;
+  display: inline-block;
+}
+.divisao2{
 
   padding-left: 50px;
 }
@@ -42,18 +50,32 @@ li {
 }
 
 .titulo{
+  color: lightgray;
   font-family: sans-serif;
   text-align: justify;
-  font-size: 35px;
+  font-size: 40px;
 }
 
 .subtitulo{
+  color: lightgray;
   font-family: sans-serif;
   text-align: justify;
-  font-size: 25px;
+  font-size: 30px;
+  
 }
 
 .corpotexto{
+  font-size: 20px;
+  color: lightgray;
   font-family: sans-serif;
   text-align: justify;
+  text-overflow: none;
+  line-height: 1.2em;
+  max-width: 160ch;
+  overflow: hidden;
+  
+  
+}
+hr {
+  margin: 30px 0;
 }
